@@ -6,7 +6,6 @@ h1 {
     color: #FFD700; /* Gold for contrast */
 }
 *{
-    box_sizing: border-box;
     margin : 0;
     padding: 0;
     font-family: Arial, sans-serif;
@@ -54,7 +53,6 @@ body {
 #navbar__logo{
    /* background-color : #ff8177*/;
     background-image: linear-gradient(to top,rgba(0, 0, 0, 0.5) 0%, rgb(255,255,255) 1%);
-    bacjground-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
